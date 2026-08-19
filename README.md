@@ -21,5 +21,21 @@ Some notable recent activities:
 - Updating my repositories: Yup.
 - Staring at my laptop: Thinking is good!
 - Write creative stories: Yeah, good for creativity.
-- Temple: A templating language! I was working on it, then re-thought it. It had some structural cons, so thought it's better to rm -rf --no-preserve-root it.
+- Temple: A templating language! I was working on it, then re-thought it. It had some structural cons, so thought it's better to rm -rf --no-preserve-root it. I'll rebuild it next week! AST was so satisfying!
 - Autumn: This is a secret project! Of course, for now. I'm actively working on it. It's a Web framework, not gonna say back or front!
+
+## What are your IDEs and tools?
+
+Well, Vim for small scripting, or when I don't take the matter seriously(Writing this with vim! Classified as Small Scripting!). PyCharm for python, IntelliJ Idea for Kotlin, VSCode for other things, such as Docker, SQL, Rust.
+
+I also use terminal! Terminator, of course, Tmux is present but rarely used because I don't know it yet. wl-copy/wl-paste are in my daily work. And fish shell! I use it to do automation, like just doing "cd-project SQR" to cd to SQLRower.
+
+I know, I know, depth matters. But I like peeking at interesting concepts!
+
+## Wanna contact me?
+
+Well, I prefer being contacted via Github, but my email, <a href="mailto:github.py.coder@gmail.com">github.py.coder@gmail.com</a>, is also available!
+
+## Wait, isn't it too much?
+
+Probably, you have to scroll 10 minutes to reach my projects now! But it worth the talk.
