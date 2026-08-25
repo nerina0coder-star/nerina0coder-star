@@ -5,7 +5,7 @@ I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight 
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
-## Developer since: 2026-04-21T11:21:39.892956+00:00
+## Developer since: 2026-03-03T11:48:15.220005+00:00
 
 How did I get that?
 Well, used datetime and timedelta, did a minus and parentheses to group em, and the isoformat.
