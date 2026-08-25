@@ -1,7 +1,7 @@
 # Hi, I'm Seyyed.
 ## About me!
 
-I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight thinking what I did last minute.
+I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight thinking what I did last minute. Age? Let's not talk about that... I'm 14.
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
