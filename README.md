@@ -28,6 +28,9 @@ Some notable recent activities:
 - Temple: A templating language! I was working on it, then re-thought it. It had some structural cons, so thought it's better to rm -rf --no-preserve-root it. I'll rebuild it next week! AST was so satisfying!
 - Autumn: This is a secret project! Of course, for now. I'm actively working on it. It's a Web framework, not gonna say back or front! This is the 2nd week of working on it, and the progress has been good enough. Mypy stopped yelling at me(I met it yesterday, or the day before), 2 Autumn extensions are done(Yup), gonna build the final extension, do tests, write docs, maybe even checkout Vercel or Pythonanywhere(or everywhere?) 
 
+Well now, let's be honest. I've thought of everything I've built until now(Excluding Temple and Autumn, alongside another project) as stepping stones. Honestly, after mypy checked my code, I thought of how many thing I might missed in my other projects, and so 
+I might get stop working on em. As for Autumn, I can promise Good Documentation and a Stablized project when it's out.
+
 ## What are your IDEs and tools?
 
 Well, Vim for small scripting, or when I don't take the matter seriously(Writing this with vim! Classified as Small Scripting!). PyCharm for python, IntelliJ Idea for Kotlin, VSCode for other things, such as Docker, SQL, Rust.
@@ -39,6 +42,10 @@ I know, I know, depth matters. But I like peeking at interesting concepts!
 ## Wanna contact me?
 
 Well, I prefer being contacted via Github, but my email, <a href="mailto:github.py.coder@gmail.com">github.py.coder@gmail.com</a>, is also available!
+
+## Anything new?
+
+I woke up thinking about code! I woke up WHILE thinking! I remember it being a "Oh! Wow, that's cool." or "Oh, got it!" moment that woke me up, but I expected a damn 12 hours sleep after pulling off an all-nighter.
 
 ## Wait, isn't it too much?
 
