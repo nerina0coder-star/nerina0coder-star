@@ -1,8 +1,12 @@
 # Hi, I'm Seyyed.
 ## About me!
-I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight.
-I love things that challenge me, and also I don't like abondoning what I build.
+
+I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight thinking what I did last minute.
+I love things that challenge me, and also I don't like abondoning what I build unless needed.
+Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
+
 ## What do I know? What stories do I have?
+
 Everything!
 
 Well, no, let's be real. I used to work with Java, but Gradle stared at me, too hostile, so I left. Well, not completely because of that, a part of the problem were the... conflicts that acquired when I was least expecting them.
@@ -22,7 +26,7 @@ Some notable recent activities:
 - Staring at my laptop: Thinking is good!
 - Write creative stories: Yeah, good for creativity.
 - Temple: A templating language! I was working on it, then re-thought it. It had some structural cons, so thought it's better to rm -rf --no-preserve-root it. I'll rebuild it next week! AST was so satisfying!
-- Autumn: This is a secret project! Of course, for now. I'm actively working on it. It's a Web framework, not gonna say back or front!
+- Autumn: This is a secret project! Of course, for now. I'm actively working on it. It's a Web framework, not gonna say back or front! This is the 2nd week of working on it, and the progress has been good enough. Mypy stopped yelling at me(I met it yesterday, or the day before), 2 Autumn extensions are done(Yup), gonna build the final extension, do tests, write docs, maybe even checkout Vercel or Pythonanywhere(or everywhere?) 
 
 ## What are your IDEs and tools?
 
