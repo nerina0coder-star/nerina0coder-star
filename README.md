@@ -15,22 +15,22 @@
 # Hi, I'm Seyyed.
 
 ## About me!
-
+<span id="about"></span>
 I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight thinking what I did last minute. Age? Let's not talk about that... I'm 14.
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
-<span id="about"></span>
-
 ## Developer since: 2026-03-03T11:48:15.220005+00:00
+
+<span id="since"></span>
 
 How did I get that?
 Well, used datetime and timedelta, did a minus and parentheses to group em, and the isoformat.
 It's UTC btw.
 
-<span id="since"></span>
-
 ## What do I know? What stories do I have?
+
+<span id="story"></span>
 
 Everything!
 
@@ -42,9 +42,9 @@ Then, after all, Python! I first started learning Flask(Learning Python? Really?
 
 Between the python journey, I also peeked at Transformers. Seriously, Transformers is fun! Then, I also peeked at SQLAlchemy ORM.
 
-<span id="story"></span>
-
 ## Any recent works?
+
+<span id="works"></span>
 
 Well, yeah, some big ones! After Gradle became accessible, I thought of peeking at kotlin again, And I did.
 
@@ -58,9 +58,9 @@ Some notable recent activities:
 Well now, let's be honest. I've thought of everything I've built until now(Excluding Temple and Autumn, alongside another project) as stepping stones. Honestly, after mypy checked my code, I thought of how many thing I might missed in my other projects, and so 
 I might get stop working on em. As for Autumn, I can promise Good Documentation and a Stablized project when it's out.
 
-<span id="works"></span>
-
 ## What are your IDEs and tools?
+
+<span id="tools"></span>
 
 Well, Vim for small scripting, or when I don't take the matter seriously(Writing this with vim! Classified as Small Scripting!). PyCharm for python, IntelliJ Idea for Kotlin, VSCode for other things, such as Docker, SQL, Rust.
 
@@ -68,11 +68,9 @@ I also use terminal! Terminator, of course, Tmux is present but rarely used beca
 
 I know, I know, depth matters. But I like peeking at interesting concepts!
 
-<span id="tools">
-
 ## Wanna contact me?
 
-Well, I prefer being contacted via Github, but my email, <a href="mailto:github.py.coder@gmail.com">github.py.coder@gmail.com</a>, is also available!
-
 <span id="contact"></span>
+
+Well, I prefer being contacted via Github, but my email, <a href="mailto:github.py.coder@gmail.com">github.py.coder@gmail.com</a>, is also available!
 <span id="end"></span>
