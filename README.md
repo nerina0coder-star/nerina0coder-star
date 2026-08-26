@@ -1,15 +1,34 @@
+# Navigating
+
+<nav>
+  <ul>
+    <li><a href="#about">About me</a></li>
+    <li><a href="#since">Developer since</a></li>
+    <li><a href="#story">Story and knowledge</a></li>
+    <li><a href="#works">Recent works</a></li>
+    <li><a href="#tools">IDE & tools</a></li>
+    <li><a href="#contact">Contact me</a></li>
+    <li><a href="#end">End</a></li>
+  </ul>
+</nav>
+
 # Hi, I'm Seyyed.
+
 ## About me!
 
 I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight thinking what I did last minute. Age? Let's not talk about that... I'm 14.
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
+<span id="about"></span>
+
 ## Developer since: 2026-03-03T11:48:15.220005+00:00
 
 How did I get that?
 Well, used datetime and timedelta, did a minus and parentheses to group em, and the isoformat.
 It's UTC btw.
+
+<span id="since"></span>
 
 ## What do I know? What stories do I have?
 
@@ -22,6 +41,8 @@ Then, I leaned into Kotlin! Well, on mobile, since I had to forget about Gradle.
 Then, after all, Python! I first started learning Flask(Learning Python? Really? Learn as you go!), did big things! Real structures, repositories/services/blueprints, then something happened. The app was becoming so large I18n couldn't be easy! .po translations were getting mixed between components! So, I started doing docker, then got stuck in my choices(I chose to separate components).
 
 Between the python journey, I also peeked at Transformers. Seriously, Transformers is fun! Then, I also peeked at SQLAlchemy ORM.
+
+<span id="story"></span>
 
 ## Any recent works?
 
@@ -37,6 +58,8 @@ Some notable recent activities:
 Well now, let's be honest. I've thought of everything I've built until now(Excluding Temple and Autumn, alongside another project) as stepping stones. Honestly, after mypy checked my code, I thought of how many thing I might missed in my other projects, and so 
 I might get stop working on em. As for Autumn, I can promise Good Documentation and a Stablized project when it's out.
 
+<span id="works"></span>
+
 ## What are your IDEs and tools?
 
 Well, Vim for small scripting, or when I don't take the matter seriously(Writing this with vim! Classified as Small Scripting!). PyCharm for python, IntelliJ Idea for Kotlin, VSCode for other things, such as Docker, SQL, Rust.
@@ -45,14 +68,11 @@ I also use terminal! Terminator, of course, Tmux is present but rarely used beca
 
 I know, I know, depth matters. But I like peeking at interesting concepts!
 
+<span id="tools">
+
 ## Wanna contact me?
 
 Well, I prefer being contacted via Github, but my email, <a href="mailto:github.py.coder@gmail.com">github.py.coder@gmail.com</a>, is also available!
 
-## Anything new?
-
-I woke up thinking about code! I woke up WHILE thinking! I remember it being a "Oh! Wow, that's cool." or "Oh, got it!" moment that woke me up, but I expected a damn 12 hours sleep after pulling off an all-nighter.
-
-## Wait, isn't it too much?
-
-Probably, you have to scroll 10 minutes to reach my projects now! But it worth the talk.
+<span id="contact"></span>
+<span id="end"></span>
