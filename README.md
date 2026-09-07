@@ -52,7 +52,7 @@ Some notable recent activities:
 - Updating my repositories: Yup.
 - Staring at my laptop: Thinking is good!
 - Write creative stories: Yeah, good for creativity.
-- Autumn: Said it's big! You can take a peek at [Autumn](/Autumn) if you like.
+- Autumn: Said it's big! You can take a peek at [Autumn](https://github.com/nerina0coder-star/Autumn) if you like.
 
 
 Well now, let's be honest. I've thought of everything I've built until now(Excluding Temple and Autumn, alongside another project) as stepping stones. Honestly, after mypy checked my code, I thought of how many thing I might missed in my other projects, and so 
