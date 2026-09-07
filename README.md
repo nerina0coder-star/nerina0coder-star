@@ -52,8 +52,8 @@ Some notable recent activities:
 - Updating my repositories: Yup.
 - Staring at my laptop: Thinking is good!
 - Write creative stories: Yeah, good for creativity.
-- Temple: A templating language! I was working on it, then re-thought it. It had some structural cons, so thought it's better to rm -rf --no-preserve-root it. I'll rebuild it next week! AST was so satisfying!
-- Autumn: This is a secret project! Of course, for now. I'm actively working on it. It's a Web framework, not gonna say back or front! This is the 2nd week of working on it, and the progress has been good enough. Mypy stopped yelling at me(I met it yesterday, or the day before), 2 Autumn extensions are done(Yup), gonna build the final extension, do tests, write docs, maybe even checkout Vercel or Pythonanywhere(or everywhere?) 
+- Autumn: Said it's big! You can take a peek at [Autumn](/Autumn) if you like.
+
 
 Well now, let's be honest. I've thought of everything I've built until now(Excluding Temple and Autumn, alongside another project) as stepping stones. Honestly, after mypy checked my code, I thought of how many thing I might missed in my other projects, and so 
 I might get stop working on em. As for Autumn, I can promise Good Documentation and a Stablized project when it's out.
@@ -67,6 +67,13 @@ Well, Vim for small scripting, or when I don't take the matter seriously(Writing
 I also use terminal! Terminator, of course, Tmux is present but rarely used because I don't know it yet. wl-copy/wl-paste are in my daily work. And fish shell! I use it to do automation, like just doing "cd-project SQR" to cd to SQLRower.
 
 I know, I know, depth matters. But I like peeking at interesting concepts!
+
+## Any TODOs in your mind?
+
+Nah... I mean, yeah. When Kotlin's here, why not learn Spring?
+I mean, I can use Autumn + Flask for a BFF/high-level server and Spring for a low-level server.
+
+And yeah, seriously, it's so deserted in here. Should I add a few things to this $USERNAME/$USERNAME repo? Having to do "feat" for a README is kinda not right.
 
 ## Wanna contact me?
 
