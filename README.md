@@ -20,6 +20,8 @@ I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight 
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
+And 'O Lord! School's starting a week later. I'm dead, I haven't finished reviewing my whole math book!
+
 ## Developer since: 2026-03-03T11:48:15.220005+00:00
 
 <span id="since"></span>
