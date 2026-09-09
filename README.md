@@ -20,7 +20,7 @@ I'm a code lover, I basically stare at my laptop at 2AM for 20 seconds straight 
 I love things that challenge me, and also I don't like abondoning what I build unless needed.
 Like if I see that a project is good, and promising, I keep going! If not, I could burn it down to ashes or rebuild it in a way that's better.
 
-And 'O Lord! School's starting a week later. I'm dead, I haven't finished reviewing my whole math book!
+And 'O Lord! School's starting a week later. I'm dead, I haven't finished reviewing my whole math book! I mean, they didn't say it's required, but I have to get a high score to go to Math/Physics to then go to CS. School's tough in here, it's literally a hierarchy made by some who think I rather figure out what type of Z(There are a lot in my language) is used in a word, when the pronunciation is LITERALLY the same! They kinda make you wanna `sudo rm -rf --no-preserve-root ./homework.md` and then throw a `Permission Denied: In Your Dreams` at you. True monsters.
 
 ## Developer since: 2026-03-03T11:48:15.220005+00:00
 
